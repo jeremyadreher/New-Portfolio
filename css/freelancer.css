@@ -251,6 +251,8 @@ header.masthead h2 {
   position: absolute;
   top: 2rem;
   right: 2rem;
+  color: black;
+  text-shadow: maroon 2px 2px;
 }
 
 .portfolio-modal .portfolio-modal-dialog .close-button i {
@@ -383,3 +385,4 @@ a:focus, a:hover, a:active {
   background-color: #1a252f;
   border-color: #1a252f;
 }
+
