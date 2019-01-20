@@ -217,7 +217,7 @@ header.masthead h2 {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background-color: maroon;
+  background-color: darkgreen;
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
@@ -252,7 +252,7 @@ header.masthead h2 {
   top: 2rem;
   right: 2rem;
   color: black;
-  text-shadow: maroon 2px 2px;
+  text-shadow: darkgreen 2px 2px;
 }
 
 .portfolio-modal .portfolio-modal-dialog .close-button i {
@@ -344,7 +344,7 @@ a {
 
 a:focus, a:hover, a:active {
   color: white;
-  text-shadow: maroon 2px 2px;
+  text-shadow: darkgreen 2px 2px;
 }
 
 .btn {
@@ -356,7 +356,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-secondary {
-  background-color: maroon!important;
+  background-color: darkgreen!important;
 }
 
 .text-primary {
