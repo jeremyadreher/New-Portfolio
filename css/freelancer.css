@@ -217,7 +217,7 @@ header.masthead h2 {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background-color: darkgreen;
+  background-color: darkred;
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
@@ -252,7 +252,7 @@ header.masthead h2 {
   top: 2rem;
   right: 2rem;
   color: black;
-  text-shadow: darkgreen 2px 2px;
+  text-shadow: darkred 2px 2px;
 }
 
 .portfolio-modal .portfolio-modal-dialog .close-button i {
@@ -320,7 +320,7 @@ header.masthead h2 {
 }
 
 .floating-label-form-group-with-focus label {
-  color: #18BC9C;
+  color: darkred;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -344,7 +344,7 @@ a {
 
 a:focus, a:hover, a:active {
   color: white;
-  text-shadow: darkgreen 2px 2px;
+  text-shadow: darkred 2px 2px;
 }
 
 .btn {
@@ -352,11 +352,11 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: black !important;
+  background-color: black!important;
 }
 
 .bg-secondary {
-  background-color: darkgreen!important;
+  background-color: darkred!important;
 }
 
 .text-primary {
@@ -369,11 +369,11 @@ a:focus, a:hover, a:active {
 
 .btn-primary {
   background-color: black;
-  border-color: maroon;
+  border-color: darkred;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: maroon;
+  background-color: darkred;
   border-color: black;
 }
 
@@ -386,4 +386,3 @@ a:focus, a:hover, a:active {
   background-color: #1a252f;
   border-color: #1a252f;
 }
-
